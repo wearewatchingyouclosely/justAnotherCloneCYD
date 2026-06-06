@@ -6,6 +6,8 @@ The brilliant [Witnessmenow](https://github.com/witnessmenow/ESP32-Cheap-Yellow-
 
 **DIYTZT ESP32 LVGL WIFIBluetooth Development Board 2.4 inch LCD TFT Module 240*320 Smart Display Screen With Touch WROOM**
 
+[AliExpress product link](https://www.aliexpress.com/item/1005008212152877.html?spm=a2g0o.order_list.order_list_main.11.23491802MXzmWg)
+
 
 ![](assets/20260215_141826_storepage.png)
 
